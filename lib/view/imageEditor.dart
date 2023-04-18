@@ -96,7 +96,6 @@ class _ImageEditorState extends State<ImageEditor> {
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.spaceAround,
                   children: [
-                    Padding(padding: const EdgeInsets.all(5), child: ctrlAds.showNativeAds(100)),
                     const SizedBox(height: 10),
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceEvenly,
@@ -191,6 +190,8 @@ class _ImageEditorState extends State<ImageEditor> {
                         ),
                       ),
                     ),
+                    const SizedBox(height: 10),
+                    Padding(padding: const EdgeInsets.all(5), child: ctrlAds.showNativeAds(100)),
                   ],
                 ),
               ),

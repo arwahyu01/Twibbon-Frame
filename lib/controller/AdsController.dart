@@ -213,6 +213,7 @@ class AdsController extends GetxController with WidgetsBindingObserver {
   }
 
   createFanNativeAds(height) {
+    height = (height <= 300) ? 300 : height;
     return Container(
       alignment: Alignment.center,
       decoration: BoxDecoration(color: Colors.blue[100]),
