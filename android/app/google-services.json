@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "916555760324",
+    "project_id": "twibbon-app-b0ef6",
+    "storage_bucket": "twibbon-app-b0ef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916555760324:android:d74403a0d0c48375da7f91",
+        "android_client_info": {
+          "package_name": "com.lengkapgratis.twibbonframes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916555760324-uvsasqjtl01lqo1o6o0cqboa6guqge3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3qGcUufSpQKl7BJQpNJKqDyVLJiC8gOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916555760324-uvsasqjtl01lqo1o6o0cqboa6guqge3o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
