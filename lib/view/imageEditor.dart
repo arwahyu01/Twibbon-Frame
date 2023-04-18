@@ -10,7 +10,6 @@ import 'package:image_picker/image_picker.dart';
 import 'package:external_path/external_path.dart';
 import 'ImageScreen.dart';
 import '../controller/AdsController.dart';
-import '../service/api.dart';
 
 class ImageEditor extends StatefulWidget {
   const ImageEditor({super.key});
