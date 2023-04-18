@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../controller/AdsController.dart';
-import '../service/Api.dart';
 
 class ImageDetail extends StatefulWidget {
   ImageDetail({Key? key}) : super(key: key);
